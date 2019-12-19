@@ -1,0 +1,1 @@
+Webscraped different ex-smoking forums that classify under cold-turkey, nicotine substitues that promote vaping, and nicotine substitues that discourage vaping and passed this data into a neural network that learned on each sample set.  Results came out to 68% validation accuracy.  Uses BERTSequence archictecture as our architecture.
