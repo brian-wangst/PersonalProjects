@@ -1,0 +1,12 @@
+---
+:id: 14231655
+:submitters:
+- :name: Brian Wang
+  :email: bdw006@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-02-19 06:35:53.833527000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-02-18 22:35:53.833527000 Z
+:status: processed
+:score: 42.0
