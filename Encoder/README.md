@@ -1,1 +1,1 @@
-3D coordinate plane predictor to predict patient symptoms based off of coordinate data
+Huffman encoder for compression and decompression. Designed for text files.
